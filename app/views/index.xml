@@ -1,0 +1,5 @@
+<Alloy>
+	<Window class="container">
+		<Label id="label" onClick="doClick">I am Zebda, I am the king !</Label>
+	</Window>
+</Alloy>
